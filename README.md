@@ -6,7 +6,7 @@ Financial Operations & Analytics Manager | Transforming Financial Data into Stra
 With a passion for driving financial performance through data-driven strategies, I specialize in transforming raw financial data into actionable insights that power business growth. My expertise lies at the intersection of finance and analytics, where I blend a deep understanding of financial operations with cutting-edge data science techniques.
 
 ## Skills
-- Financial Analysis & Reporting
+- Financial Analysis & Reporting :
 Preparing financial statements and management reports
 Analyzing financial performance and trends (e.g., P&L, balance sheet, cash flow)
 Budget variance analysis and forecasting
@@ -43,9 +43,7 @@ Creating report templates that clients can use for ongoing analysis
 Advising clients on financial strategies based on data-driven insights
 Offering workshops or training sessions on financial analysis tools and techniques
 These services can be customized based on client needs, focusing on delivering insights that support strategic decision-making. Let me know if you’d like to expand on any specific service!
-- Financial Analysis & Reporting
-- Data Analytics (Excel, Power BI, Python)
-- Investment Research
+
 
 ## Experience
 - Freelance Financial Analytics and Report Manager (Current)
