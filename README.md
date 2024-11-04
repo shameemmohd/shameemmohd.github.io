@@ -57,4 +57,4 @@ These services can be customized based on client needs, focusing on delivering i
 
 ## Contact
 - Email: nmshameem@gmail.com
-- [LinkedIn Profile](https://www.linkedin.com/in/nmshameem)
+- [LinkedIn Profile](https://www.linkedin.com/in/shameemnm)
